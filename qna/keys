@@ -1,0 +1,3 @@
+            "env": { "QnAKnowledgebaseId": "eb0b20ed-fc87-453f-927d-37312339a3bc", 
+                "QnAAuthKey": "f83a809a-9b94-40c3-a2d6-f8a15d65974a",
+                "QnAEndpointHostName": "https://qnademomb.azurewebsites.net/qnamaker" },
